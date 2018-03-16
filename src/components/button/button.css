@@ -22,11 +22,14 @@ button:focus {
   outline: none;
 }
 
-
 .secondary {
   color: red;
 }
 
 .big {
-  color: purple;
+  color: pink;
+}
+
+.big:hover {
+  color: black;
 }
